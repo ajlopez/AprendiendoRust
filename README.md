@@ -6,7 +6,7 @@
 - [Rust and the Three Laws of Informatics](https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b)
 - [Basic CRUD Rust application using Yew](https://github.com/joselo/rust-crud)
 - [Announcing Rust 1.40.0](rustup update stable)
-
+- [Rust Programming Language Resources](https://forum.openzeppelin.com/t/rust-programming-language/1867)
 
 
 
