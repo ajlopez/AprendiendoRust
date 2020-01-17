@@ -9,3 +9,6 @@
 - [Actix actor system and web framework](https://actix.rs/?_lrsc=52dda6d3-aff8-4099-ad4c-888ed3d52cd4)
 - [Why 2020 should be the year you learn Rust?](https://blog.polymath.network/why-2020-should-be-the-year-you-learn-rust-e8adb149bb11)
 - [Building a Microservice with Rust](https://medium.com/@diego_pacheco/building-a-microservice-with-rust-957420f196fc)
+- [Announcing Rust 1.40.0](rustup update stable)
+- [Rust Programming Language Resources](https://forum.openzeppelin.com/t/rust-programming-language/1867)
+- [Genetic Algorithm in Rust](https://dev.to/d3spis3d/genetic-algorithm-in-rust-3gg)
