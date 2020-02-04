@@ -13,3 +13,4 @@
 - [Rust Programming Language Resources](https://forum.openzeppelin.com/t/rust-programming-language/1867)
 - [Genetic Algorithm in Rust](https://dev.to/d3spis3d/genetic-algorithm-in-rust-3gg)
 - [Rust: Built to Last](https://www.welcometothejungle.com/en/articles/btc-rust-programming-language)
+- [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
