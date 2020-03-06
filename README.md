@@ -17,3 +17,5 @@
 - [A music theory guide written in Rust ](https://github.com/ozankasikci/rust-music-theory)
 - [Ownership 101](https://rust-unofficial.github.io/too-many-lists/first-ownership.html)
 - [A Monkey-lang implementation on Rust](https://github.com/joaquinlpereyra/rusty-monkey)
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+- [The Rust community's crate registry](https://crates.io/)
