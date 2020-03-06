@@ -2,6 +2,7 @@
 
 ## References
 
+- [The Rust Programming Language](https://doc.rust-lang.org/book/index.html)
 - [Rust has a static garbage collector](https://words.steveklabnik.com/borrow-checking-escape-analysis-and-the-generational-hypothesis)
 - [Rust and the Three Laws of Informatics](https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b)
 - [Basic CRUD Rust application using Yew](https://github.com/joselo/rust-crud)
@@ -19,3 +20,5 @@
 - [A Monkey-lang implementation on Rust](https://github.com/joaquinlpereyra/rusty-monkey)
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 - [The Rust community's crate registry](https://crates.io/)
+- [Zerocaf: A library built for EC operations in Zero Knowledge](https://github.com/dusk-network/dusk-zerocaf)
+- [The Rustonomicon: The Dark Arts of Unsafe Rust](https://doc.rust-lang.org/nomicon/#the-dark-arts-of-unsafe-rust)
