@@ -2,6 +2,7 @@
 
 ## References
 
+- [The Rust Programming Language](https://doc.rust-lang.org/book/index.html)
 - [Rust has a static garbage collector](https://words.steveklabnik.com/borrow-checking-escape-analysis-and-the-generational-hypothesis)
 - [Rust and the Three Laws of Informatics](https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b)
 - [Basic CRUD Rust application using Yew](https://github.com/joselo/rust-crud)
@@ -16,4 +17,10 @@
 - [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [A music theory guide written in Rust](https://github.com/ozankasikci/rust-music-theory)
 - [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+- [Ownership 101](https://rust-unofficial.github.io/too-many-lists/first-ownership.html)
+- [A Monkey-lang implementation on Rust](https://github.com/joaquinlpereyra/rusty-monkey)
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+- [The Rust community's crate registry](https://crates.io/)
+- [Zerocaf: A library built for EC operations in Zero Knowledge](https://github.com/dusk-network/dusk-zerocaf)
+- [The Rustonomicon: The Dark Arts of Unsafe Rust](https://doc.rust-lang.org/nomicon/#the-dark-arts-of-unsafe-rust)
 
