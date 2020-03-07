@@ -15,3 +15,5 @@
 - [Rust: Built to Last](https://www.welcometothejungle.com/en/articles/btc-rust-programming-language)
 - [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [A music theory guide written in Rust](https://github.com/ozankasikci/rust-music-theory)
+- [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+
