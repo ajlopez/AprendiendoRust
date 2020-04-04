@@ -25,3 +25,4 @@
 - [Zerocaf: A library built for EC operations in Zero Knowledge](https://github.com/dusk-network/dusk-zerocaf)
 - [The Rustonomicon: The Dark Arts of Unsafe Rust](https://doc.rust-lang.org/nomicon/#the-dark-arts-of-unsafe-rust)
 - [Rust NYC: Jon Gjengset - Demystifying unsafe code](https://www.youtube.com/watch?v=QAz-maaH0KM)
+- [Why I'm building a new async runtime](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html)
