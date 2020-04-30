@@ -26,3 +26,4 @@
 - [The Rustonomicon: The Dark Arts of Unsafe Rust](https://doc.rust-lang.org/nomicon/#the-dark-arts-of-unsafe-rust)
 - [Rust NYC: Jon Gjengset - Demystifying unsafe code](https://www.youtube.com/watch?v=QAz-maaH0KM)
 - [Why I'm building a new async runtime](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html)
+- [Rust and Node.js: A match made in heaven](https://blog.logrocket.com/rust-and-node-js-a-match-made-in-heaven/)
