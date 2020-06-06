@@ -28,3 +28,5 @@
 - [Why I'm building a new async runtime](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html)
 - [Rust and Node.js: A match made in heaven](https://blog.logrocket.com/rust-and-node-js-a-match-made-in-heaven/)
 - [Working with strings in Rust](https://fasterthanli.me/blog/2020/working-with-strings-in-rust/)
+- [Why the developers who use Rust love it so much](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)
+
